@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "main": "dist/index.js",
   "repository": "git@github.com:bschuedzig/mediator-ts.git",
+  "homepage": "https://github.com/bschuedzig/mediator-ts",
+  "bugs": "https://github.com/bschuedzig/mediator-ts/issues",
   "author": "bschuedzig <benjamin.schuedzig@mantro.net>",
   "license": "MIT",
   "keywords": ["typescript", "mediator", "messenger"],
