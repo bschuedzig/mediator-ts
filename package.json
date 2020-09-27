@@ -1,0 +1,23 @@
+{
+  "name": "mediator-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:bschuedzig/mediator-ts.git",
+  "author": "bschuedzig <benjamin.schuedzig@mantro.net>",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "watch": "jest --watch"
+  },
+  "jest": {
+    "preset": "ts-jest"
+  },
+  "dependencies": {
+    "jest": "^26.4.2",
+    "typescript": "^4.0.3"
+  },
+  "devDependencies": {
+    "@types/jest": "^26.0.14",
+    "ts-jest": "^26.4.0"
+  }
+}
