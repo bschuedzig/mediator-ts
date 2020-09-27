@@ -10,6 +10,7 @@
   "license": "MIT",
   "keywords": ["typescript", "mediator", "messenger"],
   "scripts": {
+    "build": "yarn test && yarn tsc",
     "test": "jest",
     "watch": "jest --watch"
   },
