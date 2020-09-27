@@ -3,6 +3,7 @@
   "description": "A cleanroom mediator implementation for typescript",
   "version": "0.1.1",
   "main": "dist/index.js",
+  "types": "dist/index.d.ts",
   "repository": "git@github.com:bschuedzig/mediator-ts.git",
   "homepage": "https://github.com/bschuedzig/mediator-ts",
   "bugs": "https://github.com/bschuedzig/mediator-ts/issues",
